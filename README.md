@@ -2,7 +2,7 @@
 ## CODTECH Internship Details
 
 - **Intern ID:** CIS72
-- **Intern Name:** [Your registered full name]
+- **Intern Name:** Keerthana
 - **Internship Duration:** 4 Weeks
 - **Project Name:** Ink & Insight – Blog Platform
 - **Project Type:** Python Full-Stack Web Application
