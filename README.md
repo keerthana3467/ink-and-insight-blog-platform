@@ -1,5 +1,11 @@
 # Ink & Insight — Full-Stack Blog Platform
+## CODTECH Internship Details
 
+- **Intern ID:** CIS72
+- **Intern Name:** [Your registered full name]
+- **Internship Duration:** 4 Weeks
+- **Project Name:** Ink & Insight – Blog Platform
+- **Project Type:** Python Full-Stack Web Application
 A responsive editorial blogging platform built with **React + Bootstrap 5**, **Django + Django REST Framework**, and **SQLite**.
 
 ## Features
